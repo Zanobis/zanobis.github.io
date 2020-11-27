@@ -31,10 +31,6 @@ body {
      overflow: hidden;
 }
 
-.contact {
-     min-height: 1000px;
-}
-
 a {
      color: #1f1f1f;
      text-decoration: none !important;
@@ -277,7 +273,7 @@ header
 .header {
      width: 100%;
      background: rgba(39, 43, 44, 0.87);
-     height: 100px;
+     height: 118px;
      padding: 16px 30px;
      position: absolute;
      z-index: 999;
@@ -295,6 +291,7 @@ header
 .contact {
      background: #000 url('../images/background.png');
      padding: 192px 0 152px 0;
+     min-height: 1000px;
 }
 
 .contact .titlepage::before {
